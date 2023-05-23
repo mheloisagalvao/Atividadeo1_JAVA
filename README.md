@@ -1,2 +1,2 @@
-# Atividadeo1_JAVA
+# atividadejava1
 Atividade de JAVA para a matéria de Programação Imperativa
