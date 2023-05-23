@@ -1,2 +1,2 @@
 # atividadejava1
-Atividade de JAVA para a matéria de Programação Imperativa
+atividade de java para a matéria de programação imperativa
